@@ -1,5 +1,7 @@
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+## Note - this is a copy of the original template, kept to read instructions and avice. Can be ignored.
+
 ## Template Instructions
 
 Welcome,
