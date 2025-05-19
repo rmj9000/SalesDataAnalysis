@@ -55,6 +55,7 @@ The task is to analyse the data and therefore
 4. Matplotlib
 5. Seaborn
 6. Plotly
+7. Jupyter Notebooks
 
 
 ## How To Do This?
